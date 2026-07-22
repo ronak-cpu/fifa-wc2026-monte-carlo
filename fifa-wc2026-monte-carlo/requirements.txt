@@ -1,0 +1,10 @@
+# FIFA WC2026 Monte Carlo Simulation — Dependencies
+# Core simulation (simulation.py) uses only Python standard library.
+# Install these for the Jupyter notebook and charts.
+
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+notebook>=7.0.0

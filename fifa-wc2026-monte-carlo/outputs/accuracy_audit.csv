@@ -1,0 +1,21 @@
+team,model_stage,actual_stage,difference,direction,champion_pct
+Germany,champion,r32,-5,UNDER,6.66
+Brazil,champion,r16,-4,UNDER,10.0
+Netherlands,champion,r16,-4,UNDER,5.42
+Morocco,champion,qf,-3,UNDER,7.26
+Belgium,champion,qf,-3,UNDER,5.64
+Mexico,final,r16,-3,UNDER,4.98
+France,champion,sf,-2,UNDER,9.12
+England,champion,sf,-2,UNDER,6.88
+Portugal,sf,r16,-2,UNDER,3.82
+Colombia,sf,r16,-2,UNDER,3.24
+Senegal,sf,r16,-2,UNDER,2.72
+Japan,sf,r16,-2,UNDER,2.32
+USA,sf,r16,-2,UNDER,2.38
+Uruguay,sf,r16,-2,UNDER,2.62
+Croatia,sf,r16,-2,UNDER,2.62
+Argentina,champion,final,-1,UNDER,6.12
+Norway,r16,qf,1,OVER,1.06
+Switzerland,sf,qf,-1,UNDER,2.64
+Spain,champion,champion,0,EXACT,11.78
+South Korea,r16,r16,0,EXACT,0.46
